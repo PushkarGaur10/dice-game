@@ -1,0 +1,29 @@
+body{
+  background-image:url('poker-table.png') ;
+  background-repeat:  no-repeat;
+  background-size: 70%;
+  background-position: 50% -05%;
+  text-align: center;
+ 
+}
+.Game{
+   margin-top: 200px;
+}
+.P1{
+  height: 50px;
+}
+
+.P2{
+  height: 50px;
+}
+.p1 p{
+  font-size: 30px;
+}
+button{
+  height: 50px;
+  width: 200px;
+  color: white;
+  background-color: black;
+  font-size: 25px;
+  border-radius: 25px;
+}
